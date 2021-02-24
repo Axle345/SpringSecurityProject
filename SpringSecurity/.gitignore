@@ -4,6 +4,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+src/main/java/com/project/ArkBuySell
+ArkBuy
+
 ### STS ###
 .apt_generated
 .classpath
